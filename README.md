@@ -1,9 +1,2 @@
-# week12 Simple Threading examples 
-## Simple Async Example
-There are three options via the main UI:
-### SimpleThreadActivity
-Uses Java Threads
-### SimpleNoBGThreadActivity
-Uses no Threading, all work done on the UI thread (main thread) 
-### SimpleAsyncActivity
-Uses AsyncTask for background threads
+# week13  DB I/O in an AsyncTask
+Uses AsyncTask for database I/O
