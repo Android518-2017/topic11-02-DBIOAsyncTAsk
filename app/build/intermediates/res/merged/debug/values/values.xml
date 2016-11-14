@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Red">#FF0000</color>
+    <color name="White">#FFFFFF</color>
+    <string name="app_name">DBAsync</string>
+    <string name="hello">Hello World, DatabaseActivity!</string>
+    <string name="insert_fail">Insert Failed</string>
+    <string name="insert_ok">Insert Done</string>
+</resources>
